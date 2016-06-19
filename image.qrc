@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/GROUND.png</file>
+        <file>image/Normal_Bird_1.png</file>
+        <file>image/thrower.png</file>
+        <file>image/throwerback.png</file>
+        <file>image/throwerfront.png</file>
+        <file>image/back.png</file>
+        <file>image/bird2.png</file>
+        <file>image/rock.png</file>
+        <file>image/pig.png</file>
+        <file>image/bird3.png</file>
+        <file>image/score.png</file>
+        <file>image/quit.png</file>
+        <file>image/puecolor.png</file>
+        <file>image/quit2.png</file>
+        <file>image/5000.png</file>
+        <file>image/15000.png</file>
+        <file>image/20000.png</file>
+        <file>image/10000.png</file>
+        <file>image/0.png</file>
+        <file>image/bird4.png</file>
+        <file>image/bird5.png</file>
+        <file>image/egg.png</file>
+        <file>image/pause.jpg</file>
+    </qresource>
+</RCC>
